@@ -1,0 +1,19 @@
+.results {
+  margin: 0 auto;
+  max-width: 500px;
+  background: #999;
+  height: 300px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  padding: 30px;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+button {
+  padding: 5px;
+  font-size: 15px;
+}
